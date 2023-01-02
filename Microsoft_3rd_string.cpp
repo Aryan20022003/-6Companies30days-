@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/bulls-and-cows/
 #include <bits/stdc++.h>
 #define ll long long int
 #define float double
